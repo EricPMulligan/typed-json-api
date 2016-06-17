@@ -1,0 +1,6 @@
+{
+  "name": "json-api",
+  "main": "index.d.ts",
+  "homepage": "http://jsonapi.org",
+  "version": "1.0"
+}
